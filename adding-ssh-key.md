@@ -9,4 +9,8 @@ ssh-keygen -t ed25519 -C "<comment>"
 you can `cat` the **.pub** key file in the `.ssh/` folder and use it in Github or Gitlab for example
 
 
+
+to set-up different keys for github and gitlab check --> [[choosing-ssh-key]]
+
+
 Reference: https://docs.gitlab.com/user/ssh/

@@ -27,6 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "international-keyboard-br.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "international-keyboard-br"
+            }
+          },
+          {
+            "id": "afbf6f305216f1e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "--index--.md",
                 "mode": "source",
                 "source": false
@@ -47,6 +61,20 @@
               },
               "icon": "lucide-file",
               "title": "adding-ssh-key"
+            }
+          },
+          {
+            "id": "09cad59df4eba1e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "choosing-ssh-key.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "choosing-ssh-key"
             }
           }
         ],
@@ -197,11 +225,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e9655e6d082d858",
+  "active": "afbf6f305216f1e6",
   "lastOpenFiles": [
-    "adding-ssh-key.md",
-    "--index--.md",
+    "docker-compose.md",
+    "solving-cedilla-international-keyboard.md",
     "international-keyboard-br.md",
-    "solving-cedilla-international-keyboard.md"
+    "--index--.md",
+    "choosing-ssh-key.md",
+    "adding-ssh-key.md"
   ]
 }
