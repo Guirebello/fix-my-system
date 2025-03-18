@@ -1,5 +1,13 @@
 Fisrt you gotta have openssh client and server on the respective machines
 
+## Enable sshd
+```shell
+sudo systemctl enable --now sshd
+```
+```shell
+sudo systemctl status sshd
+```
+
 ## Grab the ip
 Them, in the machine you want to connect, type:
 
